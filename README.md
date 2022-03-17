@@ -2,8 +2,6 @@
 
 First project of Shelmith Githinji
 
-
-
 <h1>Getting Started</h1>
 
 To get a local copy up and running follow these simple example steps.
@@ -22,7 +20,6 @@ Prerequisites Text editor, Github profile and Git.
 👤 Shelmith Githinji
 
 - Github: [@shelly8](https://github.com/shelly8)
-
 
 🤝 Contributing Contributions, issues and feature requests are welcome!
 
